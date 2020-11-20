@@ -16,6 +16,8 @@ class Appointment
  end
  
  def patients
-   
+   self.patient
+ end
+
  
 end
